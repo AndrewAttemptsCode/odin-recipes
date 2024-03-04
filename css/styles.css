@@ -1,0 +1,31 @@
+.main {
+    background-color: #8ECAE6;
+}
+
+.title {
+    color: #023047;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.menu {
+    color: #023047;
+    font-family: sans-serif;
+    text-decoration: none;
+}
+
+.no-bulletpoint {
+    list-style: none;
+    text-align: center;
+    vertical-align: top;
+}
+
+.text {
+    color: #023047;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+.center-align {
+    text-align: center;
+}
